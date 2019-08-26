@@ -1,6 +1,6 @@
 # mynodepackage
 <Description of what the package does>
-## Usage
+##Usage
 Install the package using npm :
  npm install mynodepackage --save
 Then, require the package and use it:
