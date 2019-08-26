@@ -1,6 +1,6 @@
 # mynodepackage
-<Description of what the package does>
-##Usage
+It check if the object is empty or not
+## Usage
 Install the package using npm :
  npm install mynodepackage --save
 Then, require the package and use it:
