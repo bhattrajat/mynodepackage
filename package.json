@@ -1,0 +1,22 @@
+{
+  "name": "mynodepackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhattrajat/mynodepackage.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Rajat Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhattrajat/mynodepackage/issues"
+  },
+  "homepage": "https://github.com/bhattrajat/mynodepackage#readme"
+}
